@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <paths>
+
+    <external-path path="Android/data/com.example.employedatabase/files/Pictures" name="app_images"/>
+
+        <external-path path="Android/data/com.example.employedatabase/files/Documents" name="app_docs"/>
+
+    </paths>
+

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Employedatabase</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="_25_years">25 Years</string>
+    <string name="male">Male</string>
+    <string name="employee_role">Employee Role</string>
+    <string name="employee_image">Employee Image</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new">Add New</string>
+    <string name="enter_employee_s_name">Enter Employee Name</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="import_data">Import Data</string>
+    <string name="export_data">Export Data</string>
+    <string name="employee_detail">Employees Details\nName:- %1$s\nRole :- %2$s\nAge :-%3$d\nGender :- %4$s\n </string>
+</resources>
